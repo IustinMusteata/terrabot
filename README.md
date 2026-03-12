@@ -1,6 +1,4 @@
-# Tema 1 POO - Musteata Vlad Iustin 324CD
 
-Aceasta este implementarea mea pentru Tema 1 de la POO.
 Am implementat simularea robotului pe harta, cat si a tuturor obiectelor ce o populeaza pe aceasta.
 
 Mi-am organizat codul astfel:
@@ -52,7 +50,5 @@ contine Terrabot si Topic.
   * printKnowledgeBase - afiseaza knowledgebase, cu topic si facts
   * improveEnvironment - imbunatateste mediul prin inputurile specifice, aplicand la fiecare modificare in functie de caz.
 Majoritatea functiilor din Simulation contin conditii foarte similare de eroare, modificate de la caz la caz, ex. check consum baterie etc. Totodata, ruleaza si comanda de aplicare a modificarilor mediului.
-Avand mici erori la structurarea logicii in Simulation, picandu-mi unele corner case-uri la cateva teste (test 16 mostly), am facut uz de unele explicatii aditionale oferite de LLM-uri.
 
-Aceasta este implementarea mea pentru aceasta tema.
  
